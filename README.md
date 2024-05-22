@@ -120,7 +120,7 @@ Summary:
 
 The baseline strategy, utilizing a support vector machine (SVM) classifier with simple moving average (SMA) trading signals, achieved an accuracy of 55%. However, the precision and recall values for the negative class (-1.0) were notably lower compared to the positive class (1.0), indicating a bias towards predicting positive outcomes. This suggests that the model may not perform well in capturing downward market trends.
 
-![baseline strategy](PNGfiles/baseline_plot.png)
+![baseline strategy](baseline_plot.png)
 
 
 
